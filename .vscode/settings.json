@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.formatting.blackArgs": [
+        "-l 80"
+    ]
+}
